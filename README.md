@@ -273,4 +273,8 @@ def build_transformer(src_vocab_size: int, tgt_vocab_size: int, src_seq_length: 
 
     return transformer
 ```
+# References
+* [Attention is All You Need](https://arxiv.org/pdf/1706.03762).
+* [The Illustrated Transformer by Jay Alammar](https://jalammar.github.io/illustrated-transformer/)
+* [Transformer by Umar Jamil](https://www.youtube.com/watch?v=ISNdQcPhsts&t=10289s)
 
